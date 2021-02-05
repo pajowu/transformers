@@ -122,7 +122,7 @@ _deps = [
     "requests",
     "sacremoses",
     "scikit-learn",
-    "sentencepiece==0.1.91",
+    "sentencepiece>=0.1.95",
     "soundfile",
     "sphinx-copybutton",
     "sphinx-markdown-tables",
